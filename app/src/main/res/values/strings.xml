@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">finances</string>
+    <string name="cadastro">Cadastrar-se</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_Senha">Senha</string>
+    <string name="nome_do_butao">Cadastrar</string>
+    <string name="nome_do_butao_logar">Logar</string>
+    <string name="titulo_Login">Login</string>
+    <string name="botao_deslogar">Deslogar</string>
+    <string name="texto_para_cadastro">Não tem conta, cadastrar-se agora!</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716605055340",
+    "project_id": "aplicativo-de-finances",
+    "storage_bucket": "aplicativo-de-finances.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716605055340:android:6fc0d028922622d53a1349",
+        "android_client_info": {
+          "package_name": "com.financ.finances"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVIS16KoxMjrjHXU-cU9QKGf3xqKDsA2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
